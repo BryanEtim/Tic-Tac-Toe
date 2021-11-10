@@ -1,5 +1,9 @@
 body {
     font-family: "Arial", sans-serif;
+    background: url('https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
 }
 
 section {
